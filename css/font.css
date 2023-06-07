@@ -1,0 +1,15 @@
+@font-face{
+    font-family:"Vazirmatn";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/assets/fonts/Vazirmatn-SemiBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 700;
+    font-style: normal;
+    src: url("/assets/fonts/Vazirmatn-SemiBold.woff2") format("woff2");
+}
+body,button{
+    font-family: "Vazirmatn";
+}
